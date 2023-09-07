@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 My name is Daria Nahorna 🦋 A passion of mine is site construction and solving problems through frontend development, primarily on Javascript and React JS ✨
 
-My experience in startup has helped to build a business developer mindset. I am creative, detail-oriented and always want to learn something new. Above all, I love building relationships with people. I believe this is necessary aspect of being a good team player.
+ I am creative, detail-oriented and always want to learn something new. Above all, I love building relationships with people. I believe this is necessary aspect of being a good team player.
 
 In my free time I enjoy learning Swedish, scouting, hiking.
 
